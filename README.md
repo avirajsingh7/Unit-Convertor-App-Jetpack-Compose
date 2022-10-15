@@ -1,5 +1,5 @@
 # Unit Convertor
-This is unit convertor android application made with Jetpack Compose.
+This is unit convertor android application made with Jetpack Compose. You can change units of length,time and Currency.
 
 ## ScreenShot
 <p float="left">
